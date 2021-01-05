@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**VitalijsP/VitalijsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my github page! 👋
 
 
 - 🌱 I’m currently learning React, Redux and Vue.
