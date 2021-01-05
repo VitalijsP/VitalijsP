@@ -9,5 +9,4 @@
 https://www.linkedin.com/in/vitalijs-piskunovs/
 vitalijs.piskunovs@gmail.com
 
-- ⚡ Interesting facts about me: I'm a eye care professional. I'm a basguitar player at folk/metal band 'Green Novice' (https://greennovice.bandcamp.com)
--->
+- ⚡ Interesting facts about me: I'm a eye care professional and I'm a basguitar player at folk/metal band 'Green Novice'. So, check this out: https://greennovice.bandcamp.com
