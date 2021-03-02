@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a project to strengthen my knowledge of GET API and Redux
 
-- 📫 If you have any questions, you can reach me on linkedin or gmai: 
+- 📫 If you have any questions, you can reach me on linkedin or gmail: 
 https://www.linkedin.com/in/vitalijs-piskunovs/
 vitalijs.piskunovs@gmail.com
 
